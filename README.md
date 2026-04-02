@@ -7,5 +7,5 @@
 
 **Tasks List:**
 
-![Tasks List](Image/Tasks.jpg)
+![Tasks List](Image/Task.jpg)
 
